@@ -1,0 +1,6 @@
+{
+  "name": "PARIDRISHYA",
+  "description": "Platform for Regional Assessment, Data, Industrial & Environmental Risk, Impact, and Sustainability Analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
